@@ -4,7 +4,6 @@ import {Links} from "../Links/Links";
 
 export const Home = () => {
 
-
   return (
     <div className={styles.homeBlock}>
       <div className={styles.container}>
