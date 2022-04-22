@@ -1,0 +1,48 @@
+
+.nav ul{
+  list-style: none;
+  display: inline-flex;
+}
+
+ul {
+  color: #fdfeff;
+}
+
+
+.nav a {
+  padding: 15px;
+  font-size: 15px;
+  display: inline-flex;
+  text-transform: uppercase;
+  font-family: 'Museo Sans Cyrl', monospace;
+  font-weight: 300;
+  text-decoration: none;
+  background-color: transparent;
+  color: inherit;
+  -webkit-transition: all 0.3s ease;
+  transition: all 0.3s ease;
+
+}
+
+.nav .active {
+  color: #fec544;
+}
+
+.nav a:hover {
+  color: #fec544;
+}
+
+.phone {
+  display: inline-flex;
+}
+
+.phone {
+  margin-left: 10px;
+  color: #fec544;
+  padding-left: 15px;
+  font-size: 15px;
+  text-transform: uppercase;
+  font-family: 'Museo Sans Cyrl', monospace;
+  font-weight: 300;
+  text-decoration: none;
+}

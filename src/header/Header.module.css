@@ -1,0 +1,13 @@
+.header {
+  height: 80px;
+  background-color: #0a101e;
+  z-index: 100000000;
+}
+
+.container {
+  height: 100%;
+  width: 60%;
+  margin: 0 auto;
+  display: flex;
+  justify-content: end;
+}
