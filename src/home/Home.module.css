@@ -76,8 +76,8 @@ h3 {
 }
 
 .linksPhoto:hover {
-  /*transition: all 2s ease-in-out;*/
-  /*transform: translateX(-150px);*/
+  transition: all 2s ease-in-out;
+  transform: translateX(-150px);
 }
 
 

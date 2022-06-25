@@ -1,6 +1,6 @@
 import React from 'react';
 import styles from './Home.module.css'
-import {Links} from "../Links/Links";
+import {Links} from "../SocialLinks/Links";
 
 export const Home = () => {
 
